@@ -3,7 +3,7 @@ name = "SigmaOS-service-sandboxing"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "service-sandboxing component"
+description = "service sandboxing"
 upstream = []
 
 [contract]
