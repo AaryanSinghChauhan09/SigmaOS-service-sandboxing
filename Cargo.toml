@@ -8,3 +8,6 @@ description = "SigmaOS service-sandboxing component - init_system"
 [lib]
 name = "service_sandboxing"
 path = "src/lib.rs"
+
+[dependencies.sigmaos-runtime-support]
+git = "https://github.com/AaryanSinghChauhan09/SigmaOS-runtime-support"

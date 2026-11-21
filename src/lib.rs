@@ -146,3 +146,6 @@ mod tests {
         assert_eq!(m.event_count(), 1);
     }
 }
+
+/// Module extracted from the SigmaOS-system monolith.
+pub mod sandbox;
